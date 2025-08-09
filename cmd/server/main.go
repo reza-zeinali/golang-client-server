@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"golang-client-server/internal/server"
+	"github.com/reza-zeinali/golang-client-server/internal/server"
 )
 
 func main() {
